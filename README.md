@@ -14,3 +14,7 @@ Open the notebook with **Jupyter NBViwever**: https://nbviewer.jupyter.org/githu
 Open the notebook with **Binder**: https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/master?filepath=data_analysis.ipynb
 
 Cite as: P. Valenta et al., *Phys. Rev. E* **103**, - (2020).
+```
+@article{
+        }
+```

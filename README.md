@@ -5,7 +5,7 @@
 
 This repository contains the analysis of data used in the work "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in **Physical Review E**: https://doi.org/-
 
-All the data was computed by the **EPOCH** particle-in-cell code: https://doi.org/10.1088/0741-3335/57/11/113001
+All the data was computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** (v4.17.10) particle-in-cell code: https://doi.org/10.1088/0741-3335/57/11/113001
 
 The raw data is available on **Zenodo**: https://zenodo.org/record/-
 

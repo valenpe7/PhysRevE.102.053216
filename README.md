@@ -9,9 +9,9 @@ All the data was computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)
 
 The raw data is available on **Zenodo**: https://zenodo.org/record/-
 
-* Open the notebook with **Jupyter NBViwever**: https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/data_analysis.ipynb
+* Launch the notebook with **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/data_analysis.ipynb
 
-* Open the notebook with **Binder**: https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/data_analysis.ipynb
+* Launch the notebook with **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/data_analysis.ipynb
 
 Cite as: P. Valenta et al., *Phys. Rev. E* **103**, - (2020).
 ```

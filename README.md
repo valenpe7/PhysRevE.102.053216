@@ -38,3 +38,7 @@ Cite as: P. Valenta et al., *Phys. Rev. E* **103**, - (2020).
 ### Acknowledgements:
 
 This work was supported by ERDF (CZ.02.1.01/0.0/0.0/15_003/0000449), MEYS (LM2015070), and EPSRC (EP/G054950/1, EP/G056803/1, EP/G055165/1, EP/M022463/1).
+
+---
+
+In case of any questions, please contact the corresponding author or submit an **[issue](https://github.com/valenpe7/wakefield_polarity_reversal/issues)** to this GitHub project repository.

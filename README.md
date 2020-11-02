@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/-.svg)](https://doi.org/-)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/data_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/wakefield_polarity_reversal.ipynb.ipynb)
 
 # Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser
 
@@ -23,9 +23,9 @@ The notebook `wakefield_polarity_reversal.ipynb` is stored in this GitHub reposi
 ### How to launch the notebook:
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/data_analysis.ipynb
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/wakefield_polarity_reversal.ipynb.ipynb
 
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/data_analysis.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/wakefield_polarity_reversal.ipynb.ipynb
 
 ### How to cite:
 

@@ -1,9 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/-.svg)](https://doi.org/-)
+[![DOI](https://zenodo.org/badge/DOI/10.1103/PhysRevE.102.053216.svg)](https://doi.org/10.1103/PhysRevE.102.053216)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb)
 
 # Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser
 
-This repository contains the supplemental material for the work entitled "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in APS **Physical Review E** (https://doi.org/-).
+This repository contains the supplemental material for the work entitled "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
 
 The supplemental material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.10) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
@@ -11,7 +11,7 @@ The analysis is performed using Python 3 programming language and relies on seve
 
 ### How to obtain the data:
 
-Due to its size (- MB), the raw data used in this work is stored on **Zenodo**. You may download the data as a .zip archive on the following link: https://zenodo.org/record/-.
+Due to its size (- MB), the raw data used in this work is stored on **Zenodo**. You may download the data as a .zip archive on the following link: https://zenodo.org/record/4298843#.X8UqaGieFaQ.
 
 ### How to obtain the notebook:
 
@@ -31,8 +31,20 @@ If you have downloaded the notebook and the data and have all the requirements i
 
 Cite as: P. Valenta et al., *Phys. Rev. E* **103**, - (2020).
 ```
-@article{
-        }
+@article{doi:10.1103/PhysRevE.102.053216,
+        author = {Valenta, P. and Esirkepov, T. Zh. and Koga, J. K. and Necas, A. and Grittani, G. M. and Lazzarini, C. M. and Klimo, O. and Korn, G. and Bulanov, S. V.},
+        title = {Polarity reversal of wakefields driven by ultrashort pulse laser},
+        journal = {Physical Review E},
+        volume = {102},
+        issue = {5},
+        pages = {053216},
+        numpages = {5},
+        year = {2020},
+        month = {Nov},
+        publisher = {American Physical Society},
+        doi = {10.1103/PhysRevE.102.053216},
+        url = {https://link.aps.org/doi/10.1103/PhysRevE.102.053216}
+}
 ```
 
 ### Acknowledgements:

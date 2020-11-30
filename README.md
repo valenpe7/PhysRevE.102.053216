@@ -3,9 +3,9 @@
 
 # Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser
 
-This repository contains the supplemental material for the work entitled "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
+This repository contains supplementary material for the work entitled "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
 
-The supplemental material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.10) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.10) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
 The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), and [sdf](https://github.com/keithbennett/SDF).
 

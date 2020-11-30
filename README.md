@@ -29,7 +29,7 @@ If you have downloaded the notebook and the data and have all the requirements i
 
 ### How to cite:
 
-Cite as: P. Valenta et al., *Phys. Rev. E* **103**, - (2020).
+Cite as: P. Valenta et al., *Phys. Rev. E* **102**, 053216 (2020).
 ```
 @article{doi:10.1103/PhysRevE.102.053216,
         author = {Valenta, P. and Esirkepov, T. Zh. and Koga, J. K. and Necas, A. and Grittani, G. M. and Lazzarini, C. M. and Klimo, O. and Korn, G. and Bulanov, S. V.},

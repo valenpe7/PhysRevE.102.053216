@@ -13,6 +13,6 @@ rm -rf $dir/SDF
 
 # copy data
 cd $dir
-wget -q -O data.zip "https://zenodo.org/record/-"
+wget -q -O data.zip "https://zenodo.org/record/4298843/files/data.zip?download=1"
 unzip data.zip
 rm -f $dir/data.zip

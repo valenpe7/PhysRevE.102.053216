@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1103/PhysRevE.102.053216.svg)](https://doi.org/10.1103/PhysRevE.102.053216)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb)
 
-# Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser
+# Polarity reversal of wakefields driven by ultrashort pulse laser
 
-This repository contains supplementary material for the work entitled "*Polarity Reversal of Wakefields Driven by Ultrashort Pulse Laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
+This repository contains supplementary material for the work entitled "*Polarity reversal of wakefields driven by ultrashort pulse laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
 
 The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.10) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 

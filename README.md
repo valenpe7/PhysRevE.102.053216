@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1103/PhysRevE.102.053216.svg)](https://doi.org/10.1103/PhysRevE.102.053216)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/PhysRevE.102.053216/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb)
 
 # Polarity reversal of wakefields driven by ultrashort pulse laser
 
@@ -17,15 +17,15 @@ Due to its size (7.4 GB), the raw data used in this work is stored on **Zenodo**
 
 The notebook `wakefield_polarity_reversal.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
 
-1. Clone the repository: ``` $> git clone https://github.com/valenpe7/wakefield_polarity_reversal.git ```
+1. Clone the repository: ``` $> git clone https://github.com/valenpe7/PhysRevE.102.053216.git ```
 2. Pull in new changes: ``` $> git pull ```
 
 ### How to launch the notebook:
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/wakefield_polarity_reversal/blob/main/wakefield_polarity_reversal.ipynb
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/PhysRevE.102.053216/blob/main/wakefield_polarity_reversal.ipynb
 
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/wakefield_polarity_reversal/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/PhysRevE.102.053216/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb
 
 ### How to cite:
 

@@ -1,17 +1,18 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1103/PhysRevE.102.053216.svg)](https://doi.org/10.1103/PhysRevE.102.053216)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/PhysRevE.102.053216/blob/main/wakefield_polarity_reversal.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/PhysRevE.102.053216/main?urlpath=lab/tree/wakefield_polarity_reversal.ipynb)
 
 # Polarity reversal of wakefields driven by ultrashort pulse laser
 
-This repository contains supplementary material for the work entitled "*Polarity reversal of wakefields driven by ultrashort pulse laser*" that has been published in APS **Physical Review E** (https://doi.org/10.1103/PhysRevE.102.053216).
+This repository contains supplementary material for the paper P. Valenta et al., "Polarity reversal of wakefields driven by ultrashort pulse laser", *Physical Review E* **102**, 053216 (2020); [https://doi.org/10.1103/PhysRevE.102.053216](https://doi.org/10.1103/PhysRevE.102.053216).
 
-The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.10) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplementary material consists of the raw data and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for generating figures.
 
-The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), and [sdf](https://github.com/keithbennett/SDF).
+The analysis is performed using Python programming language and relies on several Python packages (see the `requirements.txt` file).
 
 ### How to obtain the data:
 
-Due to its size (7.4 GB), the raw data used in this work is stored on **Zenodo**. You may download the data as a .zip archive on the following link: https://zenodo.org/record/4298843#.X8UqaGieFaQ.
+The raw data used in this work are openly available in a **[Zenodo](https://zenodo.org/records/4298843)** repository. You may download the data as a .zip archive (7.4 GB) on the following link: [https://zenodo.org/records/4298843/files/data.zip?download=1](https://zenodo.org/records/4298843/files/data.zip?download=1).
 
 ### How to obtain the notebook:
 
